@@ -22,7 +22,7 @@ Sarcasm and HateSpan Detection is a machine learning project designed to classif
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Praneetha-NM/Sarcasm-and-HateSpan-Detection.git
+   git clone https://github.com/divyaprabha1805/SarcasNet.git
    cd Sarcasm-and-HateSpan-Detection
    ```
 2. Install dependencies:
