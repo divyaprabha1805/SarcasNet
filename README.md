@@ -23,7 +23,7 @@ Sarcasm and HateSpan Detection is a machine learning project designed to classif
 1. Clone the repository:
    ```sh
    git clone https://github.com/divyaprabha1805/SarcasNet.git
-   cd Sarcasm-and-HateSpan-Detection
+   cd SarcasmNet
    ```
 2. Install dependencies:
    ```sh
@@ -50,8 +50,4 @@ Sarcasm and HateSpan Detection is a machine learning project designed to classif
   streamlit run app.py --server.enableCORS false --server.enableXsrfProtection false
   ```
 
-## Contact
-For any queries, feel free to reach out:
-- GitHub: [Praneetha-NM](https://github.com/Praneetha-NM)
-- Email: [praneetha7597@gmail.com](mailto:praneetha7597@gmail.com)
 
